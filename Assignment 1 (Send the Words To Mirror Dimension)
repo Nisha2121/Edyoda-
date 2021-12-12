@@ -1,4 +1,4 @@
-word=input("Input a word to reverse:")
+word=input("Input a word to reverse:Edyoda")
 for char in range (len(word)-1,-1,-1):
 print(word[char], end="")
 print ("\n")
